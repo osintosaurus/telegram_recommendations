@@ -7,13 +7,17 @@ This script lists all channels associated with a Telegram account and collects a
 Very interesting if you have a set of channels on the same theme, you can quickly expand the network. Useful for operational monitoring, for example. Remember, you can't subscribe to more than 500 or 1000 (premium) channels with a single account.
 
 
-
 ### Instructions 
 
-- get the at api_id and hash_id at https://core.telegram.org/api/obtaining_api_id
-- put them in the script
-- install the library Telethon (pip install telethon)
-- launch the script and connect to your account (will not work if MFA is activated)
+- Get the at api_id and hash_id at https://core.telegram.org/api/obtaining_api_id
+- Put them in the script
+- Install the library Telethon (pip install telethon)
+- Launch the script and connect to your account (will not work if MFA is activated)
+
+### Recommandations
+
+- Make sure what you're doing is legal. 
+- Make sure what you're doing is secure.
 
 ### Links
 
